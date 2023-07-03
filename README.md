@@ -1,1 +1,1 @@
-# Demand-Side_Fluctuation
+A Study on Demand-Side Fluctuation in the Cycle Industry
